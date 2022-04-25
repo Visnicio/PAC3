@@ -515,5 +515,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80d02f17011a28045a722ae4e49876ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sensX: 10
-  sensY: 10
+  sensX: 1
+  sensY: 1
